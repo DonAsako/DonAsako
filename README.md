@@ -6,8 +6,8 @@
 ---
 #### I mainly work with : 
 <div align="center">
-    <a href="https://gcc.gnu.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px" />
+    <a href="https://archlinux.org/">
+        <img src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg" width="40px>
     </a>
     <a href="https://python.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="40px">
