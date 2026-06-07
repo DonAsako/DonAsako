@@ -5,7 +5,7 @@
   <tr>
     <td width="40%" align="center">
       <!-- Replace profile.png with your own photo -->
-      <img src="profile.png" alt="DonAsako" width="220px" />
+      <img src="profile.gif" alt="DonAsako" width="220px" />
     </td>
     <td width="60%">
       <p>
