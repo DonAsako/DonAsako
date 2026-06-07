@@ -3,7 +3,7 @@
 ## About Me
 
 <!-- Replace the URL with your own photo. align="left" makes the text wrap to the right (no table border). -->
-<img src="chi.gif" alt="DonAsako" width="220px" align="left" hspace="-25" />
+<img src="chi.gif" alt="DonAsako" width="220px" align="left" hspace="-50" />
 
 Hey, I'm **DonAsako**.
 
