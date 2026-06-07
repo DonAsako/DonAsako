@@ -1,8 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
+# Hi there 👋
 
 ## About Me
 
-<img src="profile.gif" alt="DonAsako" width="220px" align="left" />
+<!-- Replace the URL with your own photo. align="left" makes the text wrap to the right (no table border). -->
+<img src="chi.gif" alt="DonAsako" width="220px" align="left" hspace="25" />
 
 Hey, I'm **DonAsako**.
 
